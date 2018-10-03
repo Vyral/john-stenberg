@@ -56,7 +56,7 @@ lender:
   url: http://eyegoop.com
 
 socials:
-  review_sm_icons: false
+  review_sm_icons: true
   facebook_url: https://www.facebook.com/TheStenbergGroup/
   linkedin_url:
   gplus_url:
@@ -64,7 +64,7 @@ socials:
   twitter_url:
   instagram_url:
   pinterest_url:
-  zillow_url:
+  zillow_url: https://www.zillow.com/profile/John-Stenberg/
   trulia_url:
   yelp_url:
   podcast_url:
