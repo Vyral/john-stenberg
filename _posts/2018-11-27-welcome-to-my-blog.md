@@ -11,7 +11,7 @@ pullquote:
 enclosure_type:
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/bigstock-home-sweet-home-welcome-mat-m-235686472-4.jpg
+youtube_alternate_image: /uploads/bigstock-house-real-estate-data-and-co-123908711-1.jpg
 youtube_code:
 ---
 
