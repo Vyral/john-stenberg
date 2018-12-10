@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What’s Our Chula Vista Market Look Like as We Close Out 2018?
+title: What’s Our San Diego Market Look Like as We Close Out 2018?
 date: 2018-12-06 20:42:00
 tags:
   - Market Update
