@@ -24,7 +24,7 @@ youtube_code: voSDRnFkG5c
 
 Here are the top five ways to maximize your home’s sale price when preparing it for the market:
 
-1. **After you sign the listing agreement, start filling out your disclosures to give to the buyer**. Sometimes, people are so wrapped up in getting their property ready for the market that they forget about the disclosures. Doing this could potentially delay the escrow process and cause a problem after the close of escrow.&nbsp;
+**1. After you sign the listing agreement, start filling out your disclosures to give to the buyer**. Sometimes, people are so wrapped up in getting their property ready for the market that they forget about the disclosures. Doing this could potentially delay the escrow process and cause problems after the close of escrow.&nbsp;
 
 **2. Get your pre-inspections taken care of.** If you order your home’s inspections before talking to a serious buyer and then let them know about the home’s condition up front, you can negotiate over which repairs to make before coming to terms on a price. This will save you a lot of money.&nbsp;
 
