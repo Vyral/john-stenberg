@@ -34,4 +34,6 @@ With this in mind, I’m excited to bring something else to your attention: We�
 * Star Wars Night, for all you Star Wars fanatics out there
 * Filipino Night—my entire family will be attending this one
 
+{% include pullquote.html %}
+
 For more information about all the theme nights that are just around the corner, feel free to reach out to me by phone at 619-869-3838 or by email at John.Stenberg@Compass.com. I hope to hear from you soon\! &nbsp; &nbsp;<br>&nbsp;
