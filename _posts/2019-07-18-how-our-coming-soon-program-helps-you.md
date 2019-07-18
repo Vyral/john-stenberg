@@ -6,8 +6,7 @@ tags:
   - Real Estate
 excerpt: >-
   Our Compass Coming Soon program is perfect for frustrated buyers who just
-  haven’t found the right property. It’s an exclusive listing of homes that
-  nobody else has.
+  haven’t found the right property.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/John+Stenberg/John+Stenberg+Real+Estate+_+How+Our+Coming+Soon+Program+Helps+You.mp4
 pullquote:
