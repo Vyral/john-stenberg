@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Our Coming Soon Program Helps You
-date: 2019-07-18 15:44:29
+date: 2019-07-18 03:44:00
 tags:
   - Real Estate
 excerpt: >-
