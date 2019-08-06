@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Due Diligence on a Physical Inspection
-date: 2019-08-06 18:05:31
+date: 2019-08-06 18:05:00
 tags:
 excerpt: >-
   It’s important to do your due diligence on any home you’re buying. The most
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: GSAStZs0kE4
 ---
 
 {% include youtube.html %}
