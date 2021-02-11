@@ -7,13 +7,13 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Stenberg Real Estate Group - your professional San Diego Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>John Stenberg</managingEditor>
-    <lastBuildDate>2018-10-18 14:14:30 -0500</lastBuildDate>
+    <lastBuildDate>2021-02-11 16:54:25 -0600</lastBuildDate>
     <media:copyright>John Stenberg</media:copyright>
     <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
-      <itunes:email>stenberg619@gmail.com</itunes:email>
+      <itunes:email>john.stenberg@compass.com</itunes:email>
       <itunes:name>John Stenberg</itunes:name>
     </itunes:owner>
     <itunes:author>John Stenberg</itunes:author>
@@ -25,92 +25,392 @@
       <itunes:category text="Education"/>
     
       <item>
-        <title>this is a test post</title>
-        <link>http://localhost:4000/this-is-a-test-post-copy-2.html</link>
-        
-          <category>Market Update</category>
-        
-          <category>Real Estate</category>
-        
-          <category>Home Seller Tips</category>
+        <title>Due Diligence on a Physical Inspection</title>
+        <link>http://localhost:4000/due-diligence-on-a-physical-inspection.html</link>
         
         <author>John Stenberg</author>
-        <pubDate>2018-05-10 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <pubDate>2019-08-06 01:05:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/John+Stenberg/John+Stenberg+_+Due+Diligence+on+a+Physical+Inspection.mp4</guid>
         <description>
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+When you buy a home, there is a 17-day default clause in the contract that all of your inspections and investigations will be performed during. You’re also obligated to deal with requests for repairs if there are any discrepancies that you’re not satisfied with. 
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+I would recommend that you get your inspection ordered right away after your offer is accepted. Then, make sure you get all of the seller’s reports and disclosures before you start doing your inspections. Finally, you may want to go straight to a specialist if a home is older. They will give you estimates of what the repairs would cost so that you have the information to give to the seller. 
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+“I recommend ordering an inspection right away.”
 
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+Talk to your agent and determine whether a general or a specialty inspection is the right decision for the property you’re interested in. If you have any questions for me in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/John+Stenberg/John+Stenberg+_+Due+Diligence+on+a+Physical+Inspection.mp4" length="" type="video/mp4"/>
         <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/John+Stenberg/John+Stenberg+_+Due+Diligence+on+a+Physical+Inspection.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>It’s important to do your due diligence on any home you’re buying. The most essential piece to this is the home inspection.</itunes:subtitle>
         <itunes:author>John Stenberg</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>It’s important to do your due diligence on any home you’re buying. The most essential piece to this is the home inspection.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
-        <title>A Fox in Space</title>
-        <link>http://localhost:4000/a-fox-in-space.html</link>
+        <title>How Our Coming Soon Program Helps You</title>
+        <link>http://localhost:4000/how-our-coming-soon-program-helps-you.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>John Stenberg</author>
+        <pubDate>2019-07-17 22:44:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/John+Stenberg/John+Stenberg+Real+Estate+_+How+Our+Coming+Soon+Program+Helps+You.mp4</guid>
+        <description>
+
+I’m proud to announce a great new service that our company is offering all of you. It’s our Compass Coming Soon program. We have hundreds of properties here that are not officially on the market, but are for sale nonetheless. Visit this site to see even more homes that are available in San Diego that you won’t see anywhere else. If you’ve been struggling to find a home, this may be the perfect place for you to look. To learn more about the program, watch my latest video.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/John+Stenberg/John+Stenberg+Real+Estate+_+How+Our+Coming+Soon+Program+Helps+You.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/John+Stenberg/John+Stenberg+Real+Estate+_+How+Our+Coming+Soon+Program+Helps+You.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Our Compass Coming Soon program is perfect for frustrated buyers who just haven’t found the right property.</itunes:subtitle>
+        <itunes:author>John Stenberg</itunes:author>
+        <itunes:summary>Our Compass Coming Soon program is perfect for frustrated buyers who just haven’t found the right property.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What Can the Compass Concierge Program Do for You?</title>
+        <link>http://localhost:4000/what-can-the-compass-concierge-program-do-for-you.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>John Stenberg</author>
+        <pubDate>2019-07-02 04:48:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/John+Stenberg/John+Stenberg+_+What+Can+the+Compass+Concierge+Program+Do+for+You_.mp4</guid>
+        <description>
+
+Have you ever been in a position to sell your home only to realize that you don’t have the money to make the upgrades and repairs you need to? 
+
+Compass Concierge, our team’s newest marketing program, takes care of this problem for you. 
+
+Statistics say that when you stage your home and make all the necessary cosmetic repairs, you tend to sell for 5% to 20% more. Also, 83% of all buyer’s agents say that their buyers can better visualize themselves living in a home during a showing if the home’s been upgraded. 
+
+“Compass Concierge helps you sell your home faster and for more money.”
+
+These are numbers you can’t ignore, and Compass Concierge helps you sell your home faster and for more money by covering the cost of services to prepare your home for the market. Whether you need a new roof, carpet, A/C unit, etc., nothing is off the list. 
+
+The best part about this program is that there are no hidden costs or upfront charges. You get billed at the close of escrow, and the vendors get paid before that. It’s a win-win situation for everyone involved. 
+
+To find out more about this program and to see if you can take advantage of it, click on this link. 
+
+If you have any other questions, don’t hesitate to give me a call or shoot me an email. I’d love to speak with you. 
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/John+Stenberg/John+Stenberg+_+What+Can+the+Compass+Concierge+Program+Do+for+You_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/John+Stenberg/John+Stenberg+_+What+Can+the+Compass+Concierge+Program+Do+for+You_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Compass Concierge is our team’s newest marketing program—here’s how it benefits home sellers.</itunes:subtitle>
+        <itunes:author>John Stenberg</itunes:author>
+        <itunes:summary>Compass Concierge is our team’s newest marketing program—here’s how it benefits home sellers.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Come Be a Part of Our Upcoming Padres Theme Nights</title>
+        <link>http://localhost:4000/come-be-a-part-of-our-upcoming-padres-theme-nights.html</link>
+        
+        <author>John Stenberg</author>
+        <pubDate>2019-04-30 10:22:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/John+Stenberg/Compass+Realty+_+Come+Be+a+Part+of+Our+Upcoming+Padres+Theme+Nights.mp4</guid>
+        <description>
+
+As you probably already know, along with Compass, I’m a proud sponsor of the San Diego Padres at Petco Park this year. 
+
+With this in mind, I’m excited to bring something else to your attention: We’ll be hosting more than 40 theme nights at the ballpark this year, and you’re invited to attend any and all of them! I’ve written down my personal favorites, so feel free to contact me or visit our website for further information. Some of my favorites include: 
+
+
+  Autism Awareness Night 
+  Nurse’s Appreciation Weekend
+  Winefest 
+  Party in the Park 
+  80s Night—Party in the Park 
+  Margaritaville Night, for the Parrotheads who love margaritas and Jimmy Buffet   
+  Beerfest 
+  Bruce Lee Tribute Night, with a Bruce Lee t-shirt giveaway
+  Star Wars Night, for all you Star Wars fanatics out there
+  Filipino Night—my entire family will be attending this one
+
+
+“We’ll be hosting more than 40 theme nights at the ballpark this year, and you’re invited to attend any and all of them!”
+
+For more information about all the theme nights that are just around the corner, feel free to reach out to me by phone at 619-869-3838 or by email at John.Stenberg@Compass.com. I hope to hear from you soon!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/John+Stenberg/Compass+Realty+_+Come+Be+a+Part+of+Our+Upcoming+Padres+Theme+Nights.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/John+Stenberg/Compass+Realty+_+Come+Be+a+Part+of+Our+Upcoming+Padres+Theme+Nights.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>We’d love for you and your family to attend any number of our upcoming theme nights that’ll be held at the San Diego Padres’ Petco Park!</itunes:subtitle>
+        <itunes:author>John Stenberg</itunes:author>
+        <itunes:summary>We’d love for you and your family to attend any number of our upcoming theme nights that’ll be held at the San Diego Padres’ Petco Park!</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What’s Going on in Our San Diego Real Estate Market?</title>
+        <link>http://localhost:4000/whats-going-on-in-our-san-diego-real-estate-market.html</link>
         
           <category>Market Update</category>
+        
+          <category>Real Estate</category>
+        
+        <author>John Stenberg</author>
+        <pubDate>2019-04-16 11:04:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/John+Stenberg/John+Stenberg+Real+Estate+_+Whats+Going+on+in+our+San+Diego+Real+Estate+Market_.mp4</guid>
+        <description>
+
+People ask me what’s happening in our market on a daily basis.
+
+Well, it all depends on whether you’re looking to buy, sell, rent, or invest in a home.
+
+Right now, the median price of a San Diego home is $570,000. Interest rates are as low as 4%, which means it’s an incredible time to buy. In addition, homes are on the market for a mere 28 days before they’re sold. We still have a low level of inventory, meaning we’re in a seller’s market.
+
+“We still have a low level of inventory, meaning we’re in a seller’s market.”
+
+If you want to buy now, it’s a good idea to work with an agent who knows the market inside and out. If you want to sell, use a proven strategy in order to net top dollar on your sale. I’d be more than happy to help you with your real estate needs and answer any questions you may have. In the meantime, I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/John+Stenberg/John+Stenberg+Real+Estate+_+Whats+Going+on+in+our+San+Diego+Real+Estate+Market_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/John+Stenberg/John+Stenberg+Real+Estate+_+Whats+Going+on+in+our+San+Diego+Real+Estate+Market_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>What’s the latest news in the San Diego real estate market? Let’s take a look.</itunes:subtitle>
+        <itunes:author>John Stenberg</itunes:author>
+        <itunes:summary>What’s the latest news in the San Diego real estate market? Let’s take a look.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>4 Common Homebuyer Mistakes You Need to Avoid</title>
+        <link>http://localhost:4000/4-common-homebuyer-mistakes-you-need-to-avoid.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+          <category>Real Estate</category>
+        
+        <author>John Stenberg</author>
+        <pubDate>2019-03-07 12:49:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/John+Stenberg/John+Stenberg+Compass+Real+Estate+_+4+Common+Mistakes+Homebuyer+Mistakes+You+Need+to+Avoid.mp4</guid>
+        <description>
+
+Here are four common mistakes buyers make during the home buying process that you need to avoid: 
+
+1. Not talking to a lender. It’s one thing to get pre-qualified over the phone, but it’s another thing to actually sit down with a lender, go over the loan process, provide them with all the necessary financial documents, and have an underwriter grant you a pre-approval. When in doubt, always shoot for a pre-approval instead of a pre-qualification, because that will make you a more attractive buyer in today’s market. 
+
+2. Not discussing your wants and needs with your agent. Communication is key when working with your agent, so make sure you sit down and have a conversation with them about what kinds of neighborhoods you’re looking to live in. They’ll do a much better job if you’re clear with them about what a perfect home means to you. 
+
+“Communication is key when working with your agent.”
+
+3. Not discussing the maximum price you’ll pay with your agent. This will help them during the negotiation process, and it will increase the odds you won’t have to actually pay that price. If you don’t trust your agent with this type of information, you should probably find yourself another agent. 
+
+4. Not connecting with the seller. A home sale is an emotional transaction for both parties, so writing a letter to the seller or making a video for them about why you want to buy their home and how you’ll take care of it can go a long way in gaining their favor. Case in point: I recently represented a buyer who won out in a multiple-offer situation despite not having the highest bid because they took the time to make a video and send it to the seller. 
+
+If you have any other questions about buying a home or you have any other real estate needs, don’t hesitate to reach out to me. I’d be happy to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/John+Stenberg/John+Stenberg+Compass+Real+Estate+_+4+Common+Mistakes+Homebuyer+Mistakes+You+Need+to+Avoid.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/John+Stenberg/John+Stenberg+Compass+Real+Estate+_+4+Common+Mistakes+Homebuyer+Mistakes+You+Need+to+Avoid.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>To make sure you find and close on the best possible home in our market, there are four common homebuyer mistakes you need to avoid.</itunes:subtitle>
+        <itunes:author>John Stenberg</itunes:author>
+        <itunes:summary>To make sure you find and close on the best possible home in our market, there are four common homebuyer mistakes you need to avoid.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Maximize Your Home’s Sale Price With These 5 Tips</title>
+        <link>http://localhost:4000/maximize-your-homes-sale-price-with-these-5-tips.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+          <category>Real Estate</category>
+        
+        <author>John Stenberg</author>
+        <pubDate>2019-02-19 13:19:10 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/John+Stenberg/John+Stenberg+_+Maximize+Your+Homes+Sale+Price+With+These+5+Tips.mp4</guid>
+        <description>
+
+Here are the top five ways to maximize your home’s sale price when preparing it for the market:
+
+1. After you sign the listing agreement, start filling out your disclosures to give to the buyer. Sometimes, people are so wrapped up in getting their property ready for the market that they forget about the disclosures. Doing this could potentially delay the escrow process and cause problems after the close of escrow. 
+
+2. Get your pre-inspections taken care of. If you order your home’s inspections before talking to a serious buyer and then let them know about the home’s condition up front, you can negotiate over which repairs to make before coming to terms on a price. This will save you a lot of money. 
+
+3. Stage the home. I’ve found that you can increase your sale price by 5% to 25% if you walk through your home with a real estate agent and do whatever needs to be done (decluttering, recarpeting, repainting, etc.) to stage it before putting it on the market. 
+
+“When pricing your home, focus on the leading indicators instead of the lagging indicators.”
+
+4. Start the pre-marketing process early on. In the old days, sellers would list their property on a Tuesday, take photos of it on Wednesday, get it ready for the market on Friday, and have an open house on Saturday or Sunday. Good agents know that the new way of doing things involves pre-marketing your property weeks in advance of listing it in order to expose it to the most buyers possible. 
+
+5. Make sure you’re still the clear choice in price. When pricing your home, focus on the leading indicators instead of the lagging indicators. The market has shifted, and we previously relied on lagging indicators like sold comps and the list-to-sale price ratio to price a property. Now, leading indicators like the supply of inventory, the average days on market, and the number of pending properties will tell you what’s happening now and in the next 30 to 60 days. Right now, more properties are extending their average days on market than ever before.
+
+If you’re thinking of making a move in 2019, give me a call so I can help you get started and position your home to sell for top dollar. If you have any other questions about our real estate market, feel free to reach out to me as well. I look forward to speaking with you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/John+Stenberg/John+Stenberg+_+Maximize+Your+Homes+Sale+Price+With+These+5+Tips.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/John+Stenberg/John+Stenberg+_+Maximize+Your+Homes+Sale+Price+With+These+5+Tips.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Want to make sure you maximize your home’s sale price? Here are the five tips you need to follow.</itunes:subtitle>
+        <itunes:author>John Stenberg</itunes:author>
+        <itunes:summary>Want to make sure you maximize your home’s sale price? Here are the five tips you need to follow.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>4 Inexpensive Tips for Staging Your Home So It Sells for Top Dollar</title>
+        <link>http://localhost:4000/4-inexpensive-tips-for-staging-your-home-so-it-sells-for-top-dollar.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+          <category>Real Estate</category>
+        
+        <author>John Stenberg</author>
+        <pubDate>2019-01-17 15:37:06 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/John+Stenberg/John+Stenberg+Compass+Real+Estate+_+4+Inexpensive+Tips+for+Staging+Your+Home.mp4</guid>
+        <description>
+
+Here are four cost-friendly home staging tips that will help you sell quickly and for top dollar.
+
+First, depersonalize the property. Buyers want to be able to visualize themselves living in the property, not the family that already lives there, so remove any personal pictures or mementos.
+
+Second, change the layout of the furniture. Make sure the furniture in each room has a nice flow to it. If you need to remove some furniture to make that happen, go ahead and do it. In fact, make sure you evaluate each room with your real estate agent and focus on what furniture you can remove.
+
+“Buyers want to be able to visualize themselves living in the property, not the family that already lives there.”
+
+Third, declutter the property. For example, if you have any magazines or unused boxes laying around, place those items into storage somewhere.
+
+Lastly, deep clean the whole place. Specifically, focus on the bathrooms, the kitchen, and the floors. The floors are especially important if you have pets.
+
+If you’d like more budget-friendly tips on how to stage your home to sell for top dollar, don’t hesitate to call or email me. If you have any other real estate needs I can help you with, feel free to reach out to me as well. I look forward to speaking with you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/John+Stenberg/John+Stenberg+Compass+Real+Estate+_+4+Inexpensive+Tips+for+Staging+Your+Home.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/John+Stenberg/John+Stenberg+Compass+Real+Estate+_+4+Inexpensive+Tips+for+Staging+Your+Home.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you want to stage your home so that it sells for top dollar and not spend a lot of money doing so, I have four tips to share with you.</itunes:subtitle>
+        <itunes:author>John Stenberg</itunes:author>
+        <itunes:summary>If you want to stage your home so that it sells for top dollar and not spend a lot of money doing so, I have four tips to share with you.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>5 Tips for Getting the Most Money Possible From Your Next Home Sale</title>
+        <link>http://localhost:4000/5-tips-for-getting-the-most-money-possible-from-your-next-home-sale.html</link>
         
           <category>Real Estate</category>
         
           <category>Home Seller Tips</category>
         
         <author>John Stenberg</author>
-        <pubDate>2018-05-07 00:00:00 -0500</pubDate>
+        <pubDate>2018-12-18 15:15:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/John+Stenberg/John+Stenberg+Real+Estate-+5+Tips+for+Getting+the+Most+Money+Possible+from+Your+Next+Home+Sale.mp4</guid>
+        <description>
+
+With my 32 years of experience in real estate, I’ve found that there are five simple things that need to be aligned in order to sell your property for the maximum amount possible:
+
+1. Condition. When I say condition, I mean both the interior and exterior of the home. To make your home look, smell, and feel its best, make sure that it’s well staged. Boost the appeal of your bathroom, kitchen, and living room with some nice decor and furniture, and also be sure to declutter. Fix the little repairs that have been bugging you for a while. Repaint the exterior to give it a fresh look, repaint the interior to capitalize on the hottest color trends in the market, and be sure to spruce up your landscaping to enhance your curb appeal. For every $1 you put into staging your home, you could get $7 back.
+
+2. Price. We’re still in a seller’s market right now, which means that you shouldn’t ask too much for your property. Instead, price your home to make your listing a clear choice in terms of value to buyers looking in your area. I go over three pricing strategies with my clients, and I’ll be happy to sit down with you to discuss each one to figure out which is right for your situation.
+
+3. Motivation. In terms of motivation on a scale of one to 10, you have to be a 10. That means that you shouldn’t throw out the sale altogether if you don’t get the exact price you want—the market dictates the price. Don’t be a spec seller; buyers will respond to the story that you give them about why you’re selling your home, and if you’re selling because you need to upsize or if you’re relocating for work, they’ll respond accordingly.
+
+“In terms of motivation on a scale of one to 10, you have to be a 10.”
+
+4. Commission. Commission is a powerful marketing tool; if you’re offering commission to a selling broker, agents are going to be attracted to that property to help you sell it because they’ll know that they’ll be paid for their services. Agents do not make salaries in this business. If a buyer’s agent is showing your property and you’re only offering a 1% commission as opposed to 2.5% or 3%, they’re probably not going to be too excited, even if their client wants to see the property. However, if they’re getting paid for their time, they’ll be very motivated to go the extra mile to make the deal work, and you as the seller will benefit.
+
+5. Access. When you list a property and place restrictions on the times that showings can occur (e.g., only in the evenings, on weekends, or only during open houses), you’re actually restricting the exposure of your listing. Highly motivated buyers might want to see your home the same day they see your listing, but if they have to wait several days to see it, they could find another property they like in the meantime. Had they seen your property when they wanted to, they might have made an offer that same day. My advice? Make it easy for a buyer’s agent to access and show your house so that you can attract highly motivated buyers.
+
+If you have these five things all in order when you list your property with the Stenberg Group, I can guarantee you that we’re going to get the most money possible for your home sale—and fast.
+
+So, if you’re thinking about selling your home in today’s market, I would love to sit down with you and give you a marketing consultation, during which we’ll cover exactly what’s going on in your neighborhood. Feel free to reach out to me, and let’s make this happen for you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/John+Stenberg/John+Stenberg+Real+Estate-+5+Tips+for+Getting+the+Most+Money+Possible+from+Your+Next+Home+Sale.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/John+Stenberg/John+Stenberg+Real+Estate-+5+Tips+for+Getting+the+Most+Money+Possible+from+Your+Next+Home+Sale.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>What can you do to sell your property for the most money possible? Today I’ll give you a few professional tips.</itunes:subtitle>
+        <itunes:author>John Stenberg</itunes:author>
+        <itunes:summary>What can you do to sell your property for the most money possible? Today I’ll give you a few professional tips.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What’s Our San Diego Market Look Like as We Close Out 2018?</title>
+        <link>http://localhost:4000/whats-our-san-diego-market-look-like-as-we-close-out-2018.html</link>
+        
+          <category>Market Update</category>
+        
+          <category>Real Estate</category>
+        
+        <author>John Stenberg</author>
+        <pubDate>2018-12-06 14:42:00 -0600</pubDate>
         <guid></guid>
         <description>
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+What’s going on in our market? Is it a buyer’s market or a seller’s market?
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+Now that 2019 is right around the corner, the market is starting to balance out and shift toward more of a buyer’s market. There’s more inventory available, the number of sales is dropping, and buyers are doing more negotiating in their offers. Specifically, the North County luxury market is definitely slowing down, and I’m seeing a lot of price reductions in that area. 
 
+As far as interest rates are concerned, experts predict that they’ll keep rising in 2019. Although they might go as high as 5.25% (or, as a worst-case scenario, 5.5%), the good news is I don’t think they’ll get close to the 6% mark. 
 
-  list item
-  list item
-  list item
-  list item
-  list item
+If you’re a buyer, this means you’ll have a higher mortgage payment. If you’re a seller, this means you’ll have a smaller buyer pool to work with. A lot of sellers hear this and are tempted to wait six months or a year to list, but if you’re thinking about doing that, I’d first advise that you sit down with your agent and strategize over the best time to put your home on the market. 
 
+“As we enter 2019, we should see a more normal market emerge.”
 
+How does inventory look moving forward? As with interest rates, inventory will keep increasing in 2019. Right now, we’re seeing a lot of potential sellers get off the fence and list their homes specifically because of rising interest rates. If you’re a seller, this means you have to be more competitive when pricing your home and preparing it for the market. 
 
-  list item
-  list item
-  list item
-  list item
-  list item
+Obviously, this is good news if you’re a buyer because it means you’ll have more homes to choose from. In the past, you didn’t have the chance to be this picky—if you saw a home you liked, you had to hurry up and bid on it. Sometimes, you’d also find yourself in a multiple-offer situation and have to pay over list price. 
 
+Those days are mostly a thing of the past, though, and as we enter 2019, we should see a more normal market emerge. 
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+Whether you’re buying or selling a home right now, it’s crucial that you sit down and talk with someone who has their finger on the pulse of the market so that you get the best deal possible. 
 
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+If you have any other questions about our current market or you have any other real estate needs I can take care of, feel free to call or email me anytime. I’d be happy to help you.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
         <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>
+
+</itunes:subtitle>
         <itunes:author>John Stenberg</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Welcome To My Blog!</title>
+        <link>http://localhost:4000/welcome-to-my-blog.html</link>
+        
+        <author>John Stenberg</author>
+        <pubDate>2018-11-26 18:00:00 -0600</pubDate>
+        <guid></guid>
+        <description>Our market remains busy, and it’s still an opportune time to command a high price selling your home.  
+
+I know what’s happening in the Chula Vista area, specifically pertaining to home values, that will directly affect you.
+
+So, I’ll be posting two monthly video messages on this blog to keep you updated. 
+
+They will be valuable and useful in helping you stay on top of what’s happening in the community.
+
+Check back because content will be coming soon!
+
+I’m excited to keep you updated on what’s happening in the Chula Vista area!
+</description>
+        <enclosure url="" length="" type=""/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type=""/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>My monthly messages will provide you with market updates, tips, and other educational information having to do with our market.</itunes:subtitle>
+        <itunes:author>John Stenberg</itunes:author>
+        <itunes:summary>My monthly messages will provide you with market updates, tips, and other educational information having to do with our market.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       

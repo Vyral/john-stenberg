@@ -12,6 +12,9 @@ client:
   license_number: 'CAL BRE#: 00980545'
   about_markdown: |
     With over 30 years of experience, John Stenberg has become San Diego's "Go to" agent and an active leader of his community. With a solid reputation for delivering his clients exceptional customer service from start to finish.  His local residential sales, marketing and negotiation experience join uncompromising integrity as the hallmarks of John's service.
+
+    John is well respected in the Real Estate community not only for his unparalleled professional track record and high ethical standards but for being an honest, hard-working family man who does everything in his power to ensure his clients' success.  He understands the significance that any real estate venture can hold for your life. Thus he strives to provide both buyers and sellers with the level of professional services and personal attention that enhances every step of the experience. Expect a partner that not only has the knowledge and experience you need, but also makes himself available to answer all of your questions, address your concerns, manage solutions to all challenges and provide advice that is always in your best interests. You can continue to depend on John as a local resource and friend long after your real estate transaction is complete.
+
   market: San Diego
   brand: The Stenberg Real Estate Group
   brokerage:
@@ -25,7 +28,7 @@ client:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: http://www.newzestimate.com/
+  first_CTA_URL: https://stenbergrealestate.com/home-valuation
   second_CTA_text: Home Search
   second_CTA_URL: /homesearch/
 
@@ -34,7 +37,7 @@ sidebar_CTA:
     CTA_title: "What’s Your San Diego Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: http://www.newzestimate.com/
+    CTA_url: https://stenbergrealestate.com/home-valuation
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
