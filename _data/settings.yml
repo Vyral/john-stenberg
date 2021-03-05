@@ -59,18 +59,19 @@ lender:
   url: http://eyegoop.com
 
 socials:
-  review_sm_icons: true
+  review_sm_icons: false
   facebook_url: https://www.facebook.com/TheStenbergGroup/
-  linkedin_url:
+  linkedin_url: https://www.linkedin.com/in/john-stenberg-aa99512b/
   gplus_url:
-  youtube_url:
+  youtube_url: https://www.youtube.com/channel/UCDbCsiDfpymbVJDB0gOicdw
   twitter_url:
-  instagram_url:
+  instagram_url: https://www.instagram.com/johnstenberg_/?hl=en
   pinterest_url:
   zillow_url: https://www.zillow.com/profile/John-Stenberg/
   trulia_url:
   yelp_url:
   podcast_url:
+  google_business_url: https://g.page/r/CVfXCwu1KTWHEAE
 
 podcast:
   title: 'San Diego Real Estate Podcast with John Stenberg'
