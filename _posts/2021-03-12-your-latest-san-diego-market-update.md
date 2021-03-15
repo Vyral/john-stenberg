@@ -29,4 +29,8 @@ In 2010, we had over 20,000 homes on the market, right after the foreclosure hou
 
 The median home price in South County is $635,000 and appreciated 24% year over year; in the metro area, it’s $666,000 and appreciated 9.6%; East County is $575,000 with 13% appreciation, and North County is at $800,000 with 12.7% appreciation. According to CoreLogic, a data provider for the real estate and mortgage industries, **San Diego has seen 11% appreciation across the board from last year**, and they predict up to 9.6% more appreciation in 2021.
 
-We think we’ll see a roller coaster between March and May. Rates will increase a bit, causing buyers to feel the pressure to go out and buy a home. We also predict buyers will have a little more inventory to choose from because more homeowners are getting vaccinated, and they’ll feel more comfortable putting their houses up for sale. If you'd like more information, you can view <em>Mortgage News Daily's</em> article <b><a href="http://www.mortgagenewsdaily.com/03022021_corelogic_hpi.asp">Home Price Appreciation Broke an 8-Year Record in January.</a></b> If you have any questions about the market or real estate in general, call or email us. We would love to be your real estate resource.
+We think we’ll see a roller coaster between March and May. Rates will increase a bit, causing buyers to feel the pressure to go out and buy a home. We also predict buyers will have a little more inventory to choose from because more homeowners are getting vaccinated, and they’ll feel more comfortable putting their houses up for sale. 
+
+If you'd like more information, you can view <em>Mortgage News Daily's</em> article <b><a href="http://www.mortgagenewsdaily.com/03022021_corelogic_hpi.asp">Home Price Appreciation Broke an 8-Year Record in January.</a></b> 
+
+If you have any questions about the market or real estate in general, call or email us. We would love to be your real estate resource.
