@@ -19,7 +19,7 @@ youtube_code: fhr14KKmw7o
 ---
 {% include youtube.html %}
 
-*Here’s how our market is doing and where we believe it’s headed this year.*
+<p style="text-align: center;"><em>Here’s how our market is doing and where we believe it’s headed this year.</em><p>
 
 What’s happening in the real estate market? I get asked this question almost daily, so today I’m sharing how our market’s doing and what we expect it to do throughout the year. With low interest rates, low inventory, and the pandemic, 2020 created the perfect seller’s market, but those rates also made a great buyer’s market. **The 10-Year Treasury is pushing up interest rates,** and we’ll likely see 3.25% to 3.5% be the norm; we believe the 2% range is over.
 
