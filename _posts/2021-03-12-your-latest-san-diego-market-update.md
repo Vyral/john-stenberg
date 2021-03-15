@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/3-12-john-stenberg-yt.jpg
-youtube_code: hunyO6RsSlg
+youtube_code: fhr14KKmw7o
 ---
 {% include youtube.html %}
 
