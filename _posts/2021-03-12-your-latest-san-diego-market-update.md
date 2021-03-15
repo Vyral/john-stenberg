@@ -31,6 +31,6 @@ The median home price in South County is $635,000 and appreciated 24% year over 
 
 Rates will increase a bit, causing buyers to feel the pressure to go out and buy a home. We also predict buyers will have a little more inventory to choose from because more homeowners are getting vaccinated, and they’ll feel more comfortable putting their houses up for sale.
 
-If you'd like more information, you can view <em>Mortgage News Daily's</em> article <a href="http://www.mortgagenewsdaily.com/03022021_corelogic_hpi.asp">Home Price Appreciation Broke an 8-Year Record in January.</a>
+If you'd like more information, you can view <em>Mortgage News Daily's</em> article <b><a href="http://www.mortgagenewsdaily.com/03022021_corelogic_hpi.asp">Home Price Appreciation Broke an 8-Year Record in January.</a></b>
 
 If you have any questions about the market or real estate in general, call or email us. We would love to be your real estate resource.
