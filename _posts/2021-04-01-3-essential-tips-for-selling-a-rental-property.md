@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Essential Tips for Selling a Rental Property
-date: 2021-04-01 19:18:37
+date: 2021-04-01 19:18:00
 tags:
   - Real Estate
   - Home Seller Tips
@@ -27,6 +27,6 @@ Here are three things you must do if you’re selling a rental property in 2021:
 
 **3\. Prepare the tenants and owner to sell in one day.** If you do the right marketing in advance, you're going to be able to sell that rental property in just one weekend.
 
-**Bonus tip:** Give some type of incentive to a tenant for being cooperative. In today’s rent-control and COVID market, you want to reassure your success by giving some type of cash incentive to the tenant.
+**Bonus tip:** Give some type of incentive to a tenant for being cooperative. In today’s rent-control and COVID market, you want to assure your success by giving some type of cash incentive to the tenant.
 
 If you have any questions for me about selling a rental property or real estate in general, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
