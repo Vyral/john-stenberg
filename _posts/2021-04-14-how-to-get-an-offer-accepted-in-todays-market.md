@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Get an Offer Accepted in Today’s Market
-date: 2021-04-14 20:14:06
+date: 2021-04-14 20:14:00
 tags:
   - Real Estate
   - Home Buyer Tips
@@ -21,7 +21,7 @@ youtube_code: Q1eCxUKDbvE
 
 Here are three things that you must do when making an offer in today’s real estate market to increase your chances of getting that offer accepted:
 
-**1\. Be educated.** Listen to your agent. Do extra research on home values in the neighborhood you’re choosing to buy into. Don’t look at the past 60 or 90 days. Look at the leading indicators (i.e. pending and closed sales).
+**1\. Be educated.** Listen to your agent. Do extra research on home values in the neighborhood you’re choosing to buy into. Don’t look at the past 60 or 90 days. Look at the leading indicators (i.e., pending and closed sales).
 
 **2\. Offer an appraisal gap clause.** If you make an offer of $525,000 on a home that’s listed at $500,000, you need to let the seller know that you’re willing to go up to that price even if the home’s appraisal comes in lower.
 
