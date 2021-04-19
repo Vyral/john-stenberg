@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Get an Offer Accepted in Today’s Market
-date: 2021-04-14 20:14:00
+date: 2021-04-19 08:14:00
 tags:
   - Real Estate
   - Home Buyer Tips
