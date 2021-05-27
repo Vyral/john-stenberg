@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Thoughts on a Potential Housing Bubble
-date: 2021-05-25 19:01:45
+date: 2021-05-25 19:01:00
 tags:
   - Real Estate
 excerpt: Here’s why I don’t believe we’re in a housing bubble right now.
@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/john-stenberg-yt-1.jpg
-youtube_code: JtJ_gn4-m0E
+youtube_code: tqGKF2gXkYI
 ---
 {% include youtube.html %}
 
@@ -28,7 +28,7 @@ Home inventory is so low that we have a 50-year low on building new construction
 
 If you’re here in San Diego, we have a surplus of people moving here that’s further compounding our inventory issues. **We have 24,000 people moving here each year, but we’re only building 12,000 new units.**
 
-Another factor is the fact that homeowners are staying in their properties longer and building up more equity. We aren’t seeing many defaults anymore, and homeowners have more equity than they ever have. 56% of homeowners have over 50% equity.&nbsp;
+Another factor is that homeowners are staying in their properties longer and building up more equity. We aren’t seeing many defaults anymore, and homeowners have more equity than they ever have. 56% of homeowners have over 50% equity.&nbsp;
 
 All of these reasons point to a much different market than a bubble. **This is still a great market to be a home seller in, and low interest rates have made homes very affordable for buyers.**
 
