@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Thoughts on a Potential Housing Bubble
-date: 2021-05-25 19:01:00
+date: 2021-05-28 07:01:00
 tags:
   - Real Estate
 excerpt: Here’s why I don’t believe we’re in a housing bubble right now.
