@@ -21,7 +21,7 @@ youtube_code: uaL-t0S0LaM
 
 In today’s seller’s market, I’m still seeing sellers make some critical mistakes that end up costing them tens of thousands of dollars. Here are the three most common mistakes that you should avoid at all costs:
 
-**1\. Selling a home as-is.** This is just not good enough if you want top dollar. Cleaning up, decluttering, and sprucing up your curb appeal will go a long way to maximizing your sale price. I’ve been seeing too many sellers not doing anything to prepare their homes and they’re selling for thousands less than they should.
+**1\. Selling a home as is.** This is just not good enough if you want top dollar. Cleaning up, decluttering, and sprucing up your curb appeal will go a long way to maximizing your sale price. I’ve been seeing too many sellers not doing anything to prepare their homes and they’re selling for thousands less than they should.
 
 **2\. Overpricing the property.** Many sellers think, “Let’s just shoot for the moon and see who bites.” However, this strategy is causing their homes to sit stagnant on the market for long periods. Serious buyers are passing these homes by and it shows. If you price competitively from the start, you’ll get more buyers, more showings, more offers, and more control of the transaction.
 
