@@ -7,8 +7,8 @@ tags:
 excerpt: 'Here’s my advice on the pros and cons of buying a condo in today’s market. '
 enclosure:
 pullquote: >-
-  “Buying a condo could be an affordable way to invest in a housing market you
-  would otherwise miss out on.”  
+  Buying a condo could be an affordable way to invest in a housing market you
+  would otherwise miss out on. 
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -19,9 +19,9 @@ youtube_code: wytlJOPddKk
 
 {% include excerpt.html %}
 
-If you live in San Diego, the median price for a home is $850,000. If your eyebrows raised at that number, then you may be one of the many people considering buying a condo right now. Today, I’ll go over the pros and cons of buying a condo in our crazy housing market.&nbsp;
+If you live in San Diego, the median price for a home is $850,000. If your eyebrows rose at that number, then you may be one of the many people considering buying a condo right now. Today, I’ll go over the pros and cons of buying a condo in our crazy housing market.&nbsp;
 
-**The biggest and most obvious pro to buying a condo is that it is an affordable way to get into home ownership.** In today’s market, there are a lot of reasonably well-off people who can’t spring for an $850,000 price tag. Buying a condo could be an affordable way to invest in a housing market you would otherwise miss out on.&nbsp;
+**The biggest and most obvious pro to buying a condo is that it is an affordable way to get into homeownership.** In today’s market, there are a lot of reasonably well-off people who can’t spring for an $850,000 price tag. Buying a condo could be an affordable way to invest in a housing market you would otherwise miss out on.&nbsp;
 
 **On the other hand, a big con of condos is their restrictions.** Low storage space, lack of parking, and homeowner’s associations are all restrictions you might have to deal with if you buy a condo. These can be a dealbreaker to some, but for others, they are hardly noticeable. If you are downsizing, for example, lack of storage space is probably not an issue.&nbsp;
 
