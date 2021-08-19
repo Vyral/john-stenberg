@@ -36,6 +36,6 @@ Builders are constructing properties as quickly as they can, but prices are goin
 * Del Mar: $2.5 Million, up 26% from 2020
 * Downtown San&nbsp; Diego: $599,000
 
-If you’re thinking about selling your San Diego home this year but you're afraid about where you’ll go next, reach out to me. I can help you put a plan together that will give you ample time to both buy and sell. If you're already a buyer and frustrated with your options, I’d love to help you find your perfect home.
+If you’re thinking about selling your San Diego home this year but you're afraid about where you’ll go next, reach out to me. I can help you put a plan together that will give you ample time to buy and sell. If you're already a buyer and frustrated with your options, I’d love to help you find your perfect home.
 
 If you have any questions about the San Diego market or real estate in general, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
