@@ -6,7 +6,8 @@ tags:
   - Market Update
   - Real Estate
 excerpt: Here’s a brief update on the San Diego market as we begin a new year.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/John+Stenberg/2022/How%E2%80%99s+the+San+Diego+Market+Doing+So+Far+in+2022_+(1).mp4
 pullquote: People are coming to San Diego from all over the world.
 enclosure_type: video/mp4
 enclosure_time:
@@ -24,7 +25,7 @@ I receive questions every day like, “What’s going on with the market?” and
 
 {% include pullquote.html %}
 
-**Another factor driving our market is low interest rates.** Buyers can buy more home with lower rates, so they’re increasing their budgets.&nbsp;
+**Another factor driving our market is low interest rates.** Buyers can buy more home with lower rates, so they’re increasing their budgets.
 
 San Diego is the best place to live in the country, and it’s not all just the climate. The lifestyle, the affordability, and the booming real estate market are just three of the reasons why people are coming to San Diego from all over the world.
 
